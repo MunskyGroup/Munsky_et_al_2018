@@ -1,0 +1,17 @@
+gene,&,analysis,&,mn,&,mn and var,&,Lygeros,&,dist
+ CTT1,&,Means,&,NonSpatial,&,0,&,-182529.7709,&,-1480.0993,&,-361926.7598
+ CTT1,&,Moments_Corrected,&,NonSpatial,&,-1605.7362,&,0,&,-2295.0171,&,-30635.2255
+ CTT1,&,Moments_4,&,NonSpatial,&,-941.1876,&,-50989.0866,&,0,&,-90862.9841
+ CTT1,&,Distributions,&,NonSpatial,&,-4759.6908,&,-5623.4095,&,-1832.4369,&,0
+ CTT1,&,Means,&,Spatial,&,0,&,-385441.5261,&,-1944.5317,&,-357485.9293
+ CTT1,&,Moments_Corrected,&,Spatial,&,-3107.3635,&,0,&,-19439.2112,&,-24477.4881
+ CTT1,&,Moments_4,&,Spatial,&,-4127.9307,&,-125097.0814,&,0,&,-236365.5319
+ CTT1,&,Distributions,&,Spatial,&,-15599.4927,&,-16001.6511,&,-6645.3223,&,0
+ STL1,&,Means,&,NonSpatial,&,0,&,-17198.022,&,-16423.8639,&,-69655.4358
+ STL1,&,Moments_Corrected,&,NonSpatial,&,-445.5268,&,0,&,-18492.8563,&,-62649.7775
+ STL1,&,Moments_4,&,NonSpatial,&,-663.3354,&,-37126.2741,&,0,&,-49859.5714
+ STL1,&,Distributions,&,NonSpatial,&,-2732.867,&,-14443.7238,&,-668.5306,&,0
+ STL1,&,Means,&,Spatial,&,0,&,-64555.394,&,-7321.8338,&,-27232.7965
+ STL1,&,Moments_Corrected,&,Spatial,&,-761.8219,&,0,&,-7201.9737,&,-17671.8262
+ STL1,&,Moments_4,&,Spatial,&,-1872.4075,&,-47669.9025,&,0,&,-81432.763
+ STL1,&,Distributions,&,Spatial,&,-10325.5005,&,-24031.8386,&,-3451.2194,&,0
