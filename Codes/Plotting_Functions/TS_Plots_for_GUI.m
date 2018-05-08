@@ -12,10 +12,10 @@ if isempty(GUI.RNAdata)
         load('Hog_Data/RNAspots.mat')
         disp('Loading data complete');
     catch
-        disp('Missing data files that are too large for GitHub')
-        disp('Download contennts of the folder:')
-        disp('https://www.dropbox.com/sh/88sbqt5g5qfe5o5/AAAEnqOem_t5E1mMoshXHnv8a?dl=0')
-        disp('and place within the Hog_Data folder in the main directory.')
+        msgbox({'Missing data files that are too large for GitHub.',...
+            'Download contennts of the folder:',...
+            'https://www.dropbox.com/sh/88sbqt5g5qfe5o5/AAAEnqOem_t5E1mMoshXHnv8a?dl=0',...
+            'and place within the Hog_Data folder in the main directory.'})
     end
         GUI.RNAdata = RNAdata;
     clear RNAdata
